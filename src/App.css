@@ -1,0 +1,21 @@
+*{
+  padding:0;
+}
+.App{
+  display:flex;
+  align-items:center;
+  align-content: center;
+  align-self: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.Time{
+  font-size: 10em;
+}
+.Date{
+  display:none;
+  margin-top: -13%;
+  margin-left: -35%;
+}
+
+
