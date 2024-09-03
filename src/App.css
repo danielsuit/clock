@@ -2,6 +2,7 @@
   padding:0;
 }
 .App{
+  margin-top: auto;
   display:flex;
   align-items:center;
   align-content: center;
@@ -16,6 +17,20 @@
   display:none;
   margin-top: -13%;
   margin-left: -35%;
+}
+span{
+  font-size:12em;
+}
+.colon{
+  font-size:12em;
+}
+.Clock{
+  display:flex;
+  align-items:center;
+  align-content: center;
+  align-self: center;
+  flex-direction: row;
+  justify-content: center;
 }
 
 
