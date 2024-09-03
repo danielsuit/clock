@@ -1,14 +1,10 @@
 *{
   padding:0;
+  margin: 0;
 }
 .App{
-  margin-top: auto;
-  display:flex;
-  align-items:center;
-  align-content: center;
-  align-self: center;
-  flex-direction: column;
-  justify-content: center;
+  margin-top: 30vh;
+  
 }
 .Time{
   font-size: 10em;
@@ -19,10 +15,10 @@
   margin-left: -35%;
 }
 span{
-  font-size:12em;
+  font-size:22vw;
 }
 .colon{
-  font-size:12em;
+  font-size:22vw;
 }
 .Clock{
   display:flex;
